@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5oy0uc1blbTmhSNzfjjYDjgNNfaBhVF6PfVQqWKWTrg=",
+  "Source": "CleanArch.Api",
+  "BasePath": "_content/CleanArch.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
