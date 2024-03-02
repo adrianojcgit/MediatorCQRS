@@ -17,3 +17,4 @@ C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.CrossCutting\obj\Debug\ne
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.CrossCutting\obj\Debug\net8.0\refint\CleanArch.CrossCutting.dll
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.pdb
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.CrossCutting\obj\Debug\net8.0\ref\CleanArch.CrossCutting.dll
+C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.CrossCutting\obj\Debug\net8.0\CleanArch.CrossCutting.sourcelink.json

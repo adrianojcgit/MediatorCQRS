@@ -9,3 +9,4 @@ C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Domain\obj\Debug\net8.0\C
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll
+C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.sourcelink.json

@@ -38,3 +38,4 @@ C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Api\obj\Debug\net8.0\refi
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.pdb
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.genruntimeconfig.cache
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Api\obj\Debug\net8.0\ref\CleanArch.Api.dll
+C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Api\obj\Debug\net8.0\CleanArch.Api.sourcelink.json

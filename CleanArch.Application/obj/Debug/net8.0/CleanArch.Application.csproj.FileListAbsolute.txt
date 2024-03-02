@@ -13,3 +13,4 @@ C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Application\obj\Debug\net
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
 C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
+C:\Adriano\Projetos\Macoratti\CQRS\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json
